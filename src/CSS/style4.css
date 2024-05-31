@@ -1,0 +1,25 @@
+.innermovie {
+ height: 600px;
+}
+label{
+ color: white;
+}
+h1{
+ color: #D6AD60;
+ font-family:"Market Deco";
+  margin-left: 30px;
+
+ 
+}
+p{
+ color: white;
+ margin-left: 30px;
+}
+.don{
+ width: 240px;
+ height: 60px;
+ font-size: 40px;
+ border-radius: 30px;
+ background-color: #D6AD60;
+ font-family: The Antique;
+}
